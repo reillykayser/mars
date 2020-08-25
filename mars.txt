@@ -1,3 +1,4 @@
 Mars is a planet
 We are docked on a space station, waiting for slingshot to Mars
 We launched and went to Mars. Also, we landed there. It's weird.
+Now we are getting soil from Mars.
